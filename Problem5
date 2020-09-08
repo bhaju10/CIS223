@@ -1,0 +1,6 @@
+def main():
+    speed=186000
+    distance=3400000
+    time = int(distance)/int(speed)
+    print("Time taken for a photo to reach NASA from Mar's closest orbit to earth is", time, "seconds")
+main()
