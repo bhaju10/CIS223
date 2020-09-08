@@ -1,0 +1,7 @@
+def main():
+    a= input("Enter name")
+    b= input("Enter hits")
+    c= input("Enter at-bats")
+    d= int(b)/int(c)
+    print(a, "betting average is", d)
+main()
