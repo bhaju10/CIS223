@@ -1,0 +1,5 @@
+def main():
+    first_name= input("Enter first")
+    last_name= input("Enter last")
+    print("Hello", first_name, last_name)
+main()
