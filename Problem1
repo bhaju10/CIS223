@@ -1,0 +1,5 @@
+def main():
+    List=["Apple", "Mango", "Grapes", "Banana"]
+    for food in range(0,4):
+        print(List[food])
+main()
