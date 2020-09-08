@@ -1,0 +1,8 @@
+import random
+def main():
+    a= ["Ball", "Bike", "Tiger"]
+    b=["hides", "shits", "loves"]
+    c=["crazily", "hurtfully", "gleefully"]
+    d=["sweet", "sexy", "dirty"]
+    print(random.choice(a), random.choice(b), random.choice(c), random.choice(d))
+main()
